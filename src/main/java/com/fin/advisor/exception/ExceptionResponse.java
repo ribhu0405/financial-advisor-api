@@ -1,7 +1,7 @@
 package com.fin.advisor.exception;
 
 /**
- * @author rajesh.kumar
+ * @author amartya.bhattacharyya
  * Pojo class for exception response.
  */
 public class ExceptionResponse {

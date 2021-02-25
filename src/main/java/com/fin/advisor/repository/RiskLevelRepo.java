@@ -7,7 +7,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import com.fin.advisor.entity.RiskLevel;
 
 /**
- * @author rajesh.kumar
+ * @author amartya.bhattacharyya
  * Repository Interface for Risk Levels
  */
 public interface RiskLevelRepo  extends JpaRepository<RiskLevel, Long> {

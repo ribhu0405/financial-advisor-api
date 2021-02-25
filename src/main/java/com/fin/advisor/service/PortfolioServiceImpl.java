@@ -26,7 +26,7 @@ import com.fin.advisor.dto.IdealPortfolioDTO;
 import com.fin.advisor.dto.RiskLevelDTO;
 
 /**
- * @author rajesh.kumar
+ * @author amartya.bhattacharyya
  * Service Impl class for Portfolio.
  */
 @Service

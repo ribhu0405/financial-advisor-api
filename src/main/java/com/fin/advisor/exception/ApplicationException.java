@@ -1,7 +1,7 @@
 package com.fin.advisor.exception;
 
 /**
- * @author rajesh.kumar
+ * @author amartya.bhattacharyya
  * Custom Exception class for application.
  */
 public class ApplicationException  extends RuntimeException {

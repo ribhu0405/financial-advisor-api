@@ -11,7 +11,7 @@ import org.springframework.context.annotation.Import;
 import com.fin.advisor.config.ApplicationConfig;
 
 /**
- * @author rajesh.kumar
+ * @author amartya.bhattacharyya
  * Application Startup class.
  */
 @SpringBootApplication

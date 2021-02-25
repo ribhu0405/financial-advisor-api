@@ -15,7 +15,7 @@ import com.fin.advisor.dto.IdealPortfolioDTO;
 import com.fin.advisor.service.PortfolioService;
 
 /**
- * @author rajesh.kumar
+ * @author amartya.bhattacharyya
  * Controller class to get or create portfolio
  */
 @RestController

@@ -4,7 +4,7 @@
 package com.fin.advisor.dto;
 
 /**
- * @author rajesh.kumar
+ * @author amartya.bhattacharyya
  * DTO class for Risk Level DTO
  */
 public class RiskLevelDTO {

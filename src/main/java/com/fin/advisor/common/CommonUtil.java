@@ -7,7 +7,7 @@ import static com.fin.advisor.constant.ApplicationConstant.NULL_STRING;
 import org.springframework.stereotype.Component;
 
 /**
- * @author rajesh.kumar
+ * @author amartya.bhattacharyya
  * Util class for common functionality.
  */
 @Component

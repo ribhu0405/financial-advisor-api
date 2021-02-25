@@ -11,7 +11,7 @@ import java.io.IOException;
 
 
 /**
- * @author rajesh.kumar
+ * @author amartya.bhattacharyya
  * Filter class to handle CORS origin */
 @Component
 @Order(Ordered.HIGHEST_PRECEDENCE)

@@ -9,7 +9,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 /**
- * @author rajesh.kumar
+ * @author amartya.bhattacharyya
  * Entity class for Risk Levels.
  *
  */

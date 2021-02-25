@@ -1,7 +1,7 @@
 package com.fin.advisor.dto;
 
 /**
- * @author rajesh.kumar
+ * @author amartya.bhattacharyya
  * DTO class for Ideal Portfolio
  */
 public class IdealPortfolioDTO {

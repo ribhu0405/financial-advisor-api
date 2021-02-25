@@ -13,7 +13,7 @@ import com.fin.advisor.dto.RiskLevelDTO;
 import com.fin.advisor.service.RiskService;
 
 /**
- * @author rajesh.kumar
+ * @author amartya.bhattacharyya
  * Controller class to fetch Risk Levels.
  */
 @RestController

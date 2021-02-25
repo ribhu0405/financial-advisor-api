@@ -7,7 +7,7 @@ import com.fin.advisor.dto.CustomPortfolioDTO;
 import com.fin.advisor.dto.IdealPortfolioDTO;
 
 /**
- * @author rajesh.kumar
+ * @author amartya.bhattacharyya
  * Service Interface for portfolio.
  */
 public interface PortfolioService {

@@ -20,10 +20,6 @@ import com.fin.advisor.dto.RiskLevelDTO;
 import com.fin.advisor.entity.RiskLevel;
 import com.fin.advisor.repository.RiskLevelRepo;
 
-/**
- * @author rajesh.kumar
- * Service Impl class for Risk Levels. 
- */
 @Service
 public class RiskServiceImpl implements RiskService {
 

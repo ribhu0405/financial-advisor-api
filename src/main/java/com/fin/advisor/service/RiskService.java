@@ -8,7 +8,7 @@ import java.util.List;
 import com.fin.advisor.dto.RiskLevelDTO;
 
 /**
- * @author rajesh.kumar
+ * @author amartya.bhattacharyya
  * Service Interface for Risk Levels.
  */
 public interface RiskService {

@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author rajesh.kumar
+ * @author amartya.bhattacharyya
  * DTO class for Custom Portfolio
  */
 public class CustomPortfolioDTO{

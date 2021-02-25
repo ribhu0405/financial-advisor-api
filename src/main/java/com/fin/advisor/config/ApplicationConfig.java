@@ -12,7 +12,7 @@ import springfox.documentation.spring.web.plugins.Docket;
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 /**
- * @author rajesh.kumar
+ * @author amartya.bhattacharyya
  * Web MVC configurer for Swagger.
  */
 @EnableSwagger2
